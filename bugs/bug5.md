@@ -51,18 +51,28 @@
 
 ##  Вложения
 - ![Player Tex Bug GIF](../screenshots/bugGif/Texture_AIBug.gif)
+
 - ![Player Tex Bug GIF](../screenshots/bugGif/TexAIBug.gif)
+
 - ![Player Tex Bug GIF](../screenshots/bugGif/TextureBug3.gif)
+
 - ![Player Tex Bug GIF](../screenshots/bugGif/TextureBug4.gif)
+
 - ![Player Tex Bug GIF](../screenshots/bugGif/TextureBug5.gif)
-- 
-- Видео:
+
+  Видео:
 - ![FullVideo](../screenshots/full-videoBug/TexAiBug.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexBug.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexBug1.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexBug3.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexBug4.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexBug5.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexBug7.mp4)
 
 ---

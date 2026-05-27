@@ -52,7 +52,7 @@
 
 ##  Вложения
 - ![AI Bug](../screenshots/screens/bug1.jpg)
-- Видео (если есть): ...
+
 
 ---
 

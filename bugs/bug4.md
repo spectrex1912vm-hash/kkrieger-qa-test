@@ -47,16 +47,19 @@
 ---
 
 ##  Вложения
-- 
 - ![Player Tex Bug GIF](../screenshots/bugGif/TexPlayerBug.gif)
+
 - ![Player Tex Bug GIF](../screenshots/bugGif/TexPlayerBug1.gif)
+
 - ![Player Tex Bug GIF](../screenshots/bugGif/TexPlayerBug2.gif)
-- 
-- Видео :
+
+  Видео :
 - ![FullVideo](../screenshots/full-videoBug/TexPlayerBug1.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexPlayerBug2.mp4)
+
 - ![FullVideo](../screenshots/full-videoBug/TexPlayerBug2(1).mp4)
-- 
+
 
 ---
 
